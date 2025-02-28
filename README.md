@@ -31,7 +31,7 @@
 
 ### **🌐 Full Stack Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,postgresql,mysql,nestjs,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,postgresql,mysql,nestjs,java,cpp" />
 </p>
 
 ### **🤖 Machine Learning & Data Science**
