@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <strong>Full Stack Developer & Machine Learning Engineer</strong>  
-  <br>📚 Student in Mathematics, Computer Science, and Applied Statistics (MISA)  
+  <br>📚 Student in Mathematics, Computer Science, and Applied Statistics
   at the University of Antananarivo.
 </p>
 
