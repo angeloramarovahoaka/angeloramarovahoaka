@@ -1,23 +1,24 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Ramarovahoaka!;+Machine+Learning+Engineer!;+Full+Stack+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Ramarovahoaka!;+AI+&+Machine+Learning+Engineer!;+Full+Stack+Developer!;+Software+Engineer!;" />
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <strong>Full Stack Developer & Machine Learning Engineer</strong>  
-  <br>📚 Student in Mathematics, Computer Science, and Applied Statistics
-  at the University of Antananarivo.
+  <strong>Full Stack Developer | AI & Machine Learning Engineer | Software Engineer</strong>  
+  <br>📚 Mathematics, Computer Science, and Applied Statistics Student  
+  at **University of Antananarivo**  
 </p>
 
 ---
 
-## 🚀 About Me  
-🎯 Passionate about **Full Stack Web Development** & **Machine Learning**  
-💡 Exploring AI applications in **Data Science & Computer Vision**  
+## 🚀 **About Me**  
+🔹 Passionate **Full Stack Web Developer** & **Machine Learning Engineer**  
+🔹 Building scalable **AI applications**, **Deep Learning** & **Computer Vision** projects  
+🔹 Experienced in **Backend Development**, **API Design**, and **Database Optimization**  
 
 ---
 
-## 📫 Connect with Me  
+## 📫 **Connect with Me**  
 <p align="center">
   <a href="mailto:angeloramarovahoaka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -27,26 +28,26 @@
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 **Tech Stack**  
 
-### **🌐 Full Stack Development**
+### **🌐 Full Stack Development**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,postgresql,mysql,nestjs,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,nodejs,express,mysql,postgresql,nestjs,java,cpp" />
 </p>
 
-### **🤖 Machine Learning & Data Science**
+### **🤖 Artificial Intelligence & Machine Learning**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,scikit-learn" />
 </p>
 
-### **⚙️ Tools & Other Technologies**
+### **⚙️ DevOps & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman,vite,graphql" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,graphql" />
 </p>
 
 ---
 
-## ⚡ Stats  
+## 📊 **GitHub Stats**  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelo-Ramarovahoaka&theme=dark&hide_border=true" />
