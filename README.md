@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Ramarovahoaka!;+AI+&+Machine+Learning+Engineer!;+Full+Stack+Developer!;+Software+Engineer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Ramarovahoaka!;+AI+&+Machine+Learning+Specialist!;+Full+Stack+Developer!;+Software Developer!;" />
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <strong>Full Stack Developer | AI & Machine Learning Engineer | Software Engineer</strong>  
+  <strong>Full Stack Developer | AI & Machine Learning Specialist | Software Developer</strong>  
   <br>📚 Mathematics, Computer Science, and Applied Statistics Student  
   at **University of Antananarivo**  
 </p>
@@ -12,8 +12,8 @@
 ---
 
 ## 🚀 **About Me**  
-🔹 Passionate **Full Stack Web Developer** & **Machine Learning Engineer**  
-🔹 Building scalable **AI applications**, **Deep Learning** & **Computer Vision** projects  
+🔹 Passionate **Full Stack Developer** & **Machine Learning Specialist**  
+🔹 Building **AI applications**, **Deep Learning** & **Computer Vision** projects  
 🔹 Experienced in **Backend Development**, **API Design**, and **Database Optimization**  
 
 ---
