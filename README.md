@@ -1,10 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Ramarovahoaka!;+AI+&+Machine+Learning+Specialist!;+Full+Stack+Developer!;+Software Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Ramarovahoaka!;+AI+and+Machine+Learning+Specialist!;+Full+Stack+Developer!;" />
+
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <strong>Full Stack Developer | AI & Machine Learning Specialist | Software Developer</strong>  
+  <strong>Full Stack Developer | AI & Machine Learning Specialist</strong>  
   <br>📚 Mathematics, Computer Science, and Applied Statistics Student  
   at **University of Antananarivo**  
 </p>
