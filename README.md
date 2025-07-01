@@ -38,7 +38,7 @@
 
 ### **🤖 Artificial Intelligence & Machine Learning**  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,jupyter" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,opencv" />
 </p>
 
 ### **⚙️ DevOps & Tools**  
