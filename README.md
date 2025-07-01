@@ -33,12 +33,12 @@
 
 ### **🌐 Full Stack Development**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nestjs,cpp,python,mysql,postgresql,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nestjs,cpp,python,mysql,postgresql,prisma,supabase" />
 </p>
 
 ### **🤖 Artificial Intelligence & Machine Learning**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,scikit-learn" />
+ <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,n8n,lovable,chatgpt" />
 </p>
 
 ### **⚙️ DevOps & Tools**  
